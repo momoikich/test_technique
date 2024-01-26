@@ -11,7 +11,7 @@ The workspace contains two folders by default, where:
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-# Programme Java de Mappage de Données pour INFOLOGIC
+# Programme Java de Mappage de Données pour ELLIPSYS
 
 ![Algorithme](graph.png)
 
